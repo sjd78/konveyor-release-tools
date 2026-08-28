@@ -1,0 +1,464 @@
+{
+  "timestamp": "2026-08-28T14:56:56.332Z",
+  "date": "2026-08-28",
+  "repositories": [
+    {
+      "org": "konveyor",
+      "repo": "analyzer-lsp",
+      "contributors": 5,
+      "contributorsList": [
+        "pujitha24",
+        "dymurray",
+        "eemcmullan",
+        "abrugaro",
+        "jmle"
+      ],
+      "newContributors": 1,
+      "newContributorsList": [
+        "pujitha24"
+      ],
+      "avgIssueResponseMs": 0,
+      "avgPRResponseMs": 1413268000,
+      "prMergeRate": 100,
+      "openIssues": 31,
+      "openPRs": 8,
+      "coverage": null,
+      "snykVulnerabilities": {
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
+      }
+    },
+    {
+      "org": "konveyor",
+      "repo": "enhancements",
+      "contributors": 1,
+      "contributorsList": [
+        "aufi"
+      ],
+      "newContributors": 1,
+      "newContributorsList": [
+        "aufi"
+      ],
+      "avgIssueResponseMs": 0,
+      "avgPRResponseMs": 0,
+      "prMergeRate": 100,
+      "openIssues": 43,
+      "openPRs": 13,
+      "coverage": null,
+      "snykVulnerabilities": {
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
+      }
+    },
+    {
+      "org": "konveyor",
+      "repo": "java-analyzer-bundle",
+      "contributors": 1,
+      "contributorsList": [
+        "eemcmullan"
+      ],
+      "newContributors": 0,
+      "newContributorsList": [],
+      "avgIssueResponseMs": 0,
+      "avgPRResponseMs": 0,
+      "prMergeRate": 0,
+      "openIssues": 11,
+      "openPRs": 5,
+      "coverage": null,
+      "snykVulnerabilities": {
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
+      }
+    },
+    {
+      "org": "konveyor",
+      "repo": "kai",
+      "contributors": 1,
+      "contributorsList": [
+        "fabianvf"
+      ],
+      "newContributors": 0,
+      "newContributorsList": [],
+      "avgIssueResponseMs": 0,
+      "avgPRResponseMs": 0,
+      "prMergeRate": 0,
+      "openIssues": 101,
+      "openPRs": 16,
+      "coverage": null,
+      "snykVulnerabilities": {
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
+      }
+    },
+    {
+      "org": "konveyor",
+      "repo": "kantra",
+      "contributors": 5,
+      "contributorsList": [
+        "dymurray",
+        "eemcmullan",
+        "jmle",
+        "mguetta1",
+        "ibragins"
+      ],
+      "newContributors": 0,
+      "newContributorsList": [],
+      "avgIssueResponseMs": 0,
+      "avgPRResponseMs": 12876500,
+      "prMergeRate": 100,
+      "openIssues": 19,
+      "openPRs": 7,
+      "coverage": 56,
+      "snykVulnerabilities": {
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
+      }
+    },
+    {
+      "org": "konveyor",
+      "repo": "operator",
+      "contributors": 5,
+      "contributorsList": [
+        "sjd78",
+        "dymurray",
+        "jortel",
+        "mguetta1",
+        "ibolton336"
+      ],
+      "newContributors": 3,
+      "newContributorsList": [
+        "sjd78",
+        "dymurray",
+        "jortel"
+      ],
+      "avgIssueResponseMs": 735322000,
+      "avgPRResponseMs": 1372000,
+      "prMergeRate": 100,
+      "openIssues": 10,
+      "openPRs": 4,
+      "coverage": null,
+      "snykVulnerabilities": {
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
+      }
+    },
+    {
+      "org": "konveyor",
+      "repo": "rulesets",
+      "contributors": 4,
+      "contributorsList": [
+        "savitharaghunathan",
+        "jfdenise",
+        "mguetta1",
+        "jmle"
+      ],
+      "newContributors": 0,
+      "newContributorsList": [],
+      "avgIssueResponseMs": 0,
+      "avgPRResponseMs": 0,
+      "prMergeRate": 0,
+      "openIssues": 73,
+      "openPRs": 6,
+      "coverage": null,
+      "snykVulnerabilities": {
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
+      }
+    },
+    {
+      "org": "konveyor",
+      "repo": "tackle2-hub",
+      "contributors": 6,
+      "contributorsList": [
+        "jortel",
+        "jmle",
+        "sjd78",
+        "dymurray",
+        "jmontleon",
+        "ibolton336"
+      ],
+      "newContributors": 1,
+      "newContributorsList": [
+        "jortel"
+      ],
+      "avgIssueResponseMs": 0,
+      "avgPRResponseMs": 96970000,
+      "prMergeRate": 92.3076923076923,
+      "openIssues": 13,
+      "openPRs": 5,
+      "coverage": null,
+      "snykVulnerabilities": {
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
+      }
+    },
+    {
+      "org": "konveyor",
+      "repo": "tackle2-ui",
+      "contributors": 6,
+      "contributorsList": [
+        "sjd78",
+        "dependabot[bot]",
+        "sshveta",
+        "rszwajko",
+        "jmle",
+        "ronlavi2412"
+      ],
+      "newContributors": 4,
+      "newContributorsList": [
+        "sjd78",
+        "dependabot[bot]",
+        "sshveta",
+        "rszwajko"
+      ],
+      "avgIssueResponseMs": 32000,
+      "avgPRResponseMs": 101196000,
+      "prMergeRate": 85.71428571428571,
+      "openIssues": 61,
+      "openPRs": 8,
+      "coverage": 39,
+      "snykVulnerabilities": {
+        "critical": 0,
+        "high": 0,
+        "medium": 0,
+        "low": 0,
+        "total": 0
+      }
+    }
+  ],
+  "metrics": {
+    "totalContributors": 19,
+    "newContributors": 8,
+    "avgResponseTime": 346406750,
+    "avgIssueResponse": 367677000,
+    "avgPRResponse": 325136500,
+    "prMergeRate": 64.22466422466422,
+    "openIssues": 362,
+    "openPRs": 72,
+    "repositories": 9
+  },
+  "prMetrics": {
+    "avgReviewTime": 325136500,
+    "avgMergeTime": 3251365000,
+    "avgRevisions": 3
+  },
+  "issueMetrics": {
+    "closureRate": 88,
+    "avgTimeToClose": 7353540000,
+    "avgTimeToFirstResponse": 367677000,
+    "responseCoverage": 97,
+    "communityResponseRate": 38
+  },
+  "maintainerMetrics": {
+    "activeMaintainers": 9,
+    "responseConcentration": 64
+  },
+  "activityHeatmap": [
+    [
+      14,
+      0,
+      7,
+      13,
+      4,
+      2,
+      9,
+      6,
+      7,
+      14,
+      18,
+      15,
+      4,
+      15,
+      5,
+      4,
+      8,
+      17,
+      12,
+      2,
+      18,
+      2,
+      8,
+      17
+    ],
+    [
+      6,
+      6,
+      9,
+      13,
+      15,
+      3,
+      12,
+      3,
+      9,
+      18,
+      13,
+      11,
+      7,
+      1,
+      4,
+      5,
+      15,
+      8,
+      7,
+      3,
+      19,
+      2,
+      3,
+      2
+    ],
+    [
+      4,
+      6,
+      14,
+      1,
+      16,
+      3,
+      9,
+      4,
+      7,
+      1,
+      6,
+      15,
+      10,
+      15,
+      1,
+      1,
+      19,
+      17,
+      4,
+      19,
+      7,
+      5,
+      8,
+      6
+    ],
+    [
+      5,
+      18,
+      11,
+      14,
+      16,
+      18,
+      17,
+      7,
+      18,
+      10,
+      6,
+      9,
+      11,
+      9,
+      13,
+      16,
+      16,
+      4,
+      4,
+      14,
+      15,
+      14,
+      1,
+      0
+    ],
+    [
+      15,
+      5,
+      10,
+      18,
+      1,
+      2,
+      16,
+      14,
+      19,
+      2,
+      10,
+      5,
+      5,
+      0,
+      10,
+      10,
+      7,
+      0,
+      14,
+      5,
+      2,
+      7,
+      10,
+      8
+    ],
+    [
+      18,
+      7,
+      5,
+      10,
+      0,
+      13,
+      10,
+      0,
+      7,
+      0,
+      17,
+      16,
+      7,
+      2,
+      12,
+      10,
+      14,
+      12,
+      8,
+      9,
+      11,
+      7,
+      17,
+      2
+    ],
+    [
+      7,
+      0,
+      19,
+      8,
+      10,
+      17,
+      12,
+      13,
+      8,
+      17,
+      6,
+      17,
+      17,
+      9,
+      18,
+      3,
+      17,
+      17,
+      4,
+      3,
+      19,
+      4,
+      12,
+      7
+    ]
+  ]
+}
